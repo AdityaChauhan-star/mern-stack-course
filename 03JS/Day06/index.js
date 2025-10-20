@@ -19,16 +19,16 @@
 // const b = str.toLowerCase();
 // console.log(b);
 
-// const str = `Hello Coder Army Coder`;
+ const str = `Hello Coder Army Coder`;
 
 // console.log(str.indexOf('Cod'));
 // console.log(str.lastIndexOf('Cod'));
 // console.log(str.includes('cod'));
 
 // slice 
-// console.log(str.slice(2,7));
-// console.log(str.slice(3));
-// console.log(str.slice(-5,-2));
+console.log(str.slice(2,7));
+console.log(str.slice(3));
+console.log(str.slice(-5,-2));
 
 // const str = `Hello Coder Army Coder`;
 
@@ -82,10 +82,10 @@
 
 
 // Timestamp
-const now = Date.now();
-const dates = new Date(1759275037293);
+// const now = Date.now();
+// const dates = new Date(1759275037293);
 // console.log(dates.toString());
 
-console.log(dates);
-console.log(now);
+// console.log(dates);
+// console.log(now);
 // 1759272851288: TimeStamp
