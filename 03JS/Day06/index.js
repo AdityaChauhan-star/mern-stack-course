@@ -19,16 +19,16 @@
 // const b = str.toLowerCase();
 // console.log(b);
 
- const str = `Hello Coder Army Coder`;
+//  const str = `Hello Coder Army Coder`;
 
 // console.log(str.indexOf('Cod'));
 // console.log(str.lastIndexOf('Cod'));
 // console.log(str.includes('cod'));
 
 // slice 
-console.log(str.slice(2,7));
-console.log(str.slice(3));
-console.log(str.slice(-5,-2));
+// console.log(str.slice(2,7));
+// console.log(str.slice(3));
+// console.log(str.slice(-5,-2));
 
 // const str = `Hello Coder Army Coder`;
 
@@ -40,12 +40,12 @@ console.log(str.slice(-5,-2));
 // console.log(c);
 
 // console.log(24+"Rohit");
-// console.log(24+"Rohit"+10);
+// console.log(24+" "+"Rohit"+" "+10);
 // console.log(24+30+"Rohit");
 
-// const str = `Hello Coder Army Coder`;
+const str = `Hello Coder Army Coder`;
 
-// console.log(str.replaceAll("ode",'iam'));
+console.log(str.replaceAll("ode",'iam'));
 
 // const user = "  Rohit  Negi ";
 // console.log(user.trim());
