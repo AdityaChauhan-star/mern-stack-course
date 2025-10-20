@@ -43,17 +43,17 @@
 // console.log(24+" "+"Rohit"+" "+10);
 // console.log(24+30+"Rohit");
 
-const str = `Hello Coder Army Coder`;
+// const str = `Hello Coder Army Coder`;
 
-console.log(str.replaceAll("ode",'iam'));
+// console.log(str.replaceAll("ode",'iam'));
 
 // const user = "  Rohit  Negi ";
 // console.log(user.trim());
 
 // const names = "Rohit Mohit Suraj Rohan Anjali";
 
-// console.log(names.split(" "))
-// console.log(names.split(","))
+// console.log(names.split(" ")) // on basis of space
+// console.log(names.split(",")) // on basis of comma
 
 // const now = new Date();
 
